@@ -1,1 +1,22 @@
 /* here you can put your own css to customize and override the theme */
+
+.tb-socio .faa {
+  color: #b3bdc6;
+  border-radius: 5% !important;
+  border: solid 1px #d5d5d5;
+  font-size: 19px;
+  line-height: 19px;
+  margin:  7px;
+  padding: 7px;
+}
+.tb-socio .faa:hover{
+  color: #e6400c;
+  border: solid 1px #e6400c;
+  text-decoration: none;
+}
+
+@media (max-width:780px){
+  #message-block{
+    display:none
+  }
+}

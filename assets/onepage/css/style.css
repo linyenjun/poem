@@ -731,17 +731,9 @@ a:hover {
   padding-top: 7px;
 }
 
-.tb-socio .faa {
-  color: #b3bdc6;
-  border-radius: 5% !important;
-  border: solid 1px #d5d5d5;
-  font-size: 19px;
-  line-height: 19px;
-  margin:  7px;
-  padding: 7px;
-}
 
-.tb-socio .fa:hover, .tb-socio .faa:hover{
+
+.tb-socio .fa:hover{
   color: #e6400c;
   border: solid 1px #e6400c;
   text-decoration: none;
